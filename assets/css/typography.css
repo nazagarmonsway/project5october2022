@@ -1,0 +1,12 @@
+h1{
+    color:#6a5acd;
+    /* font-size: 96px;  this represents absolute length - does not change with the size of the browser*/
+    /* px, rm, rem, and % */
+    /* best practice is to not use absolute values for font sizes as they cannot be resized easi;y */
+    font-size: 2em;
+}
+
+a{
+    font-size: 1em;
+   
+}
